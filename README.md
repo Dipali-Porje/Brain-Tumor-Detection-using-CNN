@@ -2,6 +2,8 @@
 
 This project is a deep learning-based web application that detects brain tumors from MRI images using a Convolutional Neural Network (CNN). The backend is built with Django, and the model is integrated into an interactive dashboard for real-time predictions.
 
+📜 [View Publication Certificate – Brain Tumor Detection Using CNN](![image](https://github.com/user-attachments/assets/81c39942-210a-494d-9bab-9e223d3cf687))
+
 ## Demo
 ![home](https://github.com/user-attachments/assets/5975953b-586e-456b-93a7-a90063601c29)
 ![result1](https://github.com/user-attachments/assets/93582845-f9e4-460a-90ab-322b63214840)
